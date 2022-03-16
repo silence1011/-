@@ -1,0 +1,7 @@
+
+spring:
+  redis:
+    host: 119.97.1  #redis的ip地址
+    port: 6379            #redis的端口 默认6379
+    password: ds         #redis的密码
+    timeout: 100000       #超时时间
